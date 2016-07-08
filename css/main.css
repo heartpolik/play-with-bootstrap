@@ -1,0 +1,33 @@
+.item img{
+    margin: auto;
+}
+
+body{
+    
+    margin: auto;
+    background:#CCC;
+}
+
+#myCarousel{
+    max-width: 65%;
+    margin: auto
+}
+
+i{
+    font-size: 15em;
+}
+.fb{
+    color:#3B5998 ;
+}
+.in{
+    color:#0077B5 ;
+}
+.gh{
+    color:#181717 ;
+}
+.gp{
+    color:#DC4E41 ;
+}
+.ml{
+    color:#7C529E ;
+}
